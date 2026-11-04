@@ -1,3 +1,10 @@
+# v1.0.1 — Add workflow screenshot
+
+Documentation-only update: both READMEs now open with a screenshot of the SelfLift
+Progressive Sampler (MiniMax H3) node in a ComfyUI workflow. No code changes.
+
+---
+
 # v1.0.0 — Initial public release
 
 Progressive-resolution sampling for ComfyUI. Run the early denoising steps at low
