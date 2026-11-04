@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ComfyUI / OS
+.DS_Store
+Thumbs.db
+
+# SelfLift debug artifacts (SELFLIFT_DEBUG=1)
+debug/
+
+# Credentials / secrets — never commit
+.env
+.env.*
+*.env
+*.token
+.gh_token
+.github_token
+id_rsa
+id_ed25519
+*.pem
+*.key
+secrets.json
+credentials.json
+.netrc
+
+# Local publish tooling (not part of the distributed package)
+publish_github.py
+

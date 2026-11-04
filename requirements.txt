@@ -1,0 +1,3 @@
+# Only used by the optional SELFLIFT_MEMORY_LOG=1 diagnostics.
+# Everything else comes from ComfyUI itself (torch, psutil via ComfyUI's own deps).
+psutil
