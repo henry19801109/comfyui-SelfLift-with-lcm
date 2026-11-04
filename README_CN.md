@@ -2,6 +2,8 @@
 
 [English README](README.md) · [License](LICENSE)
 
+![ComfyUI 工作流中的 SelfLift Progressive Sampler (MiniMax H3) 节点](docs/screenshot-h3-workflow.png)
+
 ComfyUI 渐进分辨率采样：前期去噪步骤跑低分辨率，把结果提升到全分辨率并收尾——免训练加速生成。
 
 基于 [SelfLift 论文](https://arxiv.org/abs/2609.02036)（SelfLift-zero，面向 rectified-flow 图像模型），外加论文未验证的 MiniMax H3 音视频实验性适配，以及 [TST](https://arxiv.org/abs/2609.08505) 时间注意力校正的 H3 实验性移植。
