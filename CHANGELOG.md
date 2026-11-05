@@ -1,3 +1,11 @@
+# v1.0.2 — Refresh workflow screenshot
+
+Replaced the README screenshot with a wider capture that also shows the
+`BasicScheduler` and the circled `lcm` sampler selection. Documentation-only;
+no code changes.
+
+---
+
 # v1.0.1 — Add workflow screenshot
 
 Documentation-only update: both READMEs now open with a screenshot of the SelfLift
